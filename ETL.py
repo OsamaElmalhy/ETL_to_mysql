@@ -3,7 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine, MetaData, Table
 from sqlalchemy.exc import SQLAlchemyError
 
-# Define your MySQL connection parameters
+# Define MySQL connection parameters
 user = 'root'
 password = 'rootpassword'
 host = 'localhost'
