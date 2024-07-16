@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Zdravko",
+                "last": "Rukavina"
+            },
+            "location": {
+                "street": {
+                    "number": 2022,
+                    "name": "Cerski Venac"
+                },
+                "city": "Ruma",
+                "state": "Braničevo",
+                "country": "Serbia",
+                "postcode": 18776,
+                "coordinates": {
+                    "latitude": "60.0655",
+                    "longitude": "-176.9670"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "zdravko.rukavina@example.com",
+            "login": {
+                "uuid": "fab32b01-62cb-45e0-8291-791d412187ea",
+                "username": "organicbutterfly527",
+                "password": "betsy",
+                "salt": "yjVTu4cq",
+                "md5": "9304e849eb8070bc2f6ed54c457750ca",
+                "sha1": "449403c636d1f50633ea915e09704b6880812a64",
+                "sha256": "bdfc3dd64e6c3216e1f9b8293e5602e59d6d50c66be9b4276ed8fefaf0962ba7"
+            },
+            "dob": {
+                "date": "1979-09-25T16:57:37.266Z",
+                "age": 44
+            },
+            "registered": {
+                "date": "2003-10-02T04:51:42.117Z",
+                "age": 20
+            },
+            "phone": "010-1054-862",
+            "cell": "068-5685-001",
+            "id": {
+                "name": "SID",
+                "value": "357677276"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/86.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+            },
+            "nat": "RS"
+        }
+    ],
+    "info": {
+        "seed": "460019c8e58b0825",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
