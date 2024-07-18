@@ -2,7 +2,7 @@ import subprocess
 import time
 
 # Path to the ETL script
-script_path = r'C:\Users\elmal\Downloads\Bosta Assesment\ETL.py'
+script_path = r'path\to\ETL.py'
 
 # Number of times to run the script
 num_iterations = 100 #to add 100 record
