@@ -6,10 +6,10 @@ from sqlalchemy.exc import SQLAlchemyError
 
 # Define MySQL connection parameters
 user = 'root'
-password = 'rootpassword'
+password = 'replace your password'
 host = 'localhost'
 port = 3306
-database = 'bosta_asses'
+database = 'replace your db name'
 
 # Create SQLAlchemy engine
 connection_string = f"mysql+pymysql://{user}:{password}@{host}:{port}/{database}"

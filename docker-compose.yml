@@ -5,9 +5,9 @@ services:
     image: mysql:latest
     container_name: mysql-container
     environment:
-      MYSQL_ROOT_PASSWORD: rootpassword
-      MYSQL_DATABASE: bosta_asses
-      MYSQL_USER: osama
+      MYSQL_ROOT_PASSWORD: replace your password
+      MYSQL_DATABASE: dbname
+      MYSQL_USER: root
       MYSQL_PASSWORD: 1998
     ports:
       - "3306:3306"
