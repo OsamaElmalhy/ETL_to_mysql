@@ -5,7 +5,7 @@ import time
 script_path = r'C:\Users\elmal\Downloads\Bosta Assesment\ETL.py'
 
 # Number of times to run the script
-num_iterations = 100 #to add 100 record
+num_iterations = 100 #to add 100 records
 
 # Running the script in a loop
 for i in range(num_iterations):
